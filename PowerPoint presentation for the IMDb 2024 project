@@ -1,0 +1,5 @@
+cd "C:\Users\Jayashree\Documents\GitHub\my-imdb-project"
+git add movie_data.csv
+git commit -m "Added movie_data.csv"
+git push origin main
+

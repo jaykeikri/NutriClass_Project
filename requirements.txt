@@ -1,0 +1,7 @@
+selenium
+pandas
+streamlit
+mysql-connector-python
+beautifulsoup4
+requests
+matplotlib
